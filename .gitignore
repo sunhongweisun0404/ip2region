@@ -81,3 +81,11 @@ target
 /maker/golang/dbmaker
 /maker/golang/xdb_maker
 /maker/golang/golang
+
+#erlang
+/binding/erlang/_build
+/binding/erlang/doc
+
+#vscode
+.vscode
+build
